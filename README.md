@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
+<h1 align="center">Hi 👋, I'm Arish Yuvan</h1>
 <h4 align="center">A passionate Software Engineer from Bangladesh</h4>
 <p align="center"> With a passion for building high-performance web applications. With several years of experience in the field, I specialize in using the MERN stack (MongoDB, Express, React, and Node.js) to create scalable, responsive, and feature-rich applications.</p>
 
@@ -12,15 +12,12 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **shayem@echologyx.com**
+- 📫 How to reach me **riyazulislam.821@gmail.com**
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 
-<p align="left">
-  
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arish._.yuvan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Riyazul.Islam.Rafsan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arish._.yuvan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyazulislam.821@gmail.com) 
 
 # 💻 Tech Stack:
