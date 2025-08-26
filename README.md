@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <<img src="https://komarev.com/ghpvc/?username=arrahman69&label=Profile%20views&color=0e75b6&style=flat" alt="ArishYuvan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrahman69&label=Profile%20views&color=0e75b6&style=flat" alt="ArishYuvan" /> </p>
 
 - 🌱 I’m currently learning **Microservice, Next.js & Prisma**
 
